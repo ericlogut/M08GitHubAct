@@ -1,2 +1,8 @@
-# Ignore compiled code
-.gitmodules
+# Ignora todos los archivos .txt
+*.txt
+
+# Ignora todos los archivos en el directorio 'temp'
+temp/*
+
+# Ignora el archivo de configuración local
+config/local.config
